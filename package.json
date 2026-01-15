@@ -1,0 +1,12 @@
+{
+  "name": "hangman-ws",
+  "version": "1.0.0",
+  "main": "server.js",
+  "engines": { "node": ">=18" },
+  "dependencies": {
+    "ws": "^8.17.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
